@@ -1,16 +1,8 @@
 <div align="center">
 
-# HARLEQUIN
-
-♦ &nbsp;&nbsp; ♥ &nbsp;&nbsp; ♠ &nbsp;&nbsp; ♣
-
-*An independent framework for voluntary cooperation among sovereign individuals.*
-
-*Freedom and responsibility, not imposition.*
+![HARLEQUIN — an independent framework for voluntary cooperation among sovereign individuals](./banner.svg)
 
 </div>
-
-<div align="center">◆</div>
 
 Harlequin is built to make people **more free and independent of the State** — not by force, but by giving them real autonomy: the tools, the knowledge, and the networks that lessen their dependence on power. A society apart, entered freely, where people cooperate and trade on their own terms.
 
