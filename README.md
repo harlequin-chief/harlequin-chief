@@ -8,6 +8,8 @@ Harlequin is built to make people **more free and independent of the State** —
 
 It is built slowly, in layers, with care. Quality over speed.
 
+<div align="center">◆</div>
+
 ## The four suits
 
 The mark of Harlequin carries the four suits. Each one is a value — and the reputation engine measures standing in exactly these four. The architecture tells the story: *your worth is counted in the four suits you earn.*
@@ -20,6 +22,8 @@ The mark of Harlequin carries the four suits. Each one is a value — and the re
 | ♣ | Club | Freedom | building the tools that set people free |
 
 Authority over the whole is the *conservative minimum* across the four: you cannot buy the standing of one suit with another. To be trusted with everything, be trustworthy in everything.
+
+<div align="center">◆</div>
 
 ## What is being built — in the open
 
